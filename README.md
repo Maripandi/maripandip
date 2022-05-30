@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maripandip
+- 👋 Hi, I’m @maripandi
 - 👀 I’m interested in WebApp Development
 - 🌱 I’m currently learning Django framework in python
 - 💞️ I’m looking to collaborate on ...
